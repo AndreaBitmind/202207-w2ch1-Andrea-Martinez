@@ -1,0 +1,10 @@
+@use "../sass/Variables/colors";
+
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  background-color: colors.$first-color;
+  width: 375px;
+}
