@@ -1,10 +1,6 @@
 @use "../sass/Variables/colors";
+@use "../sass/components/order_summary";
 
 * {
   box-sizing: border-box;
-}
-
-.container {
-  background-color: colors.$first-color;
-  width: 375px;
 }
